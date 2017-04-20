@@ -1,0 +1,27 @@
+mycallback({
+    "SE" : {
+        "phone" : "+46 771 33 33 10",
+        "email" : "kundservice.privat.se@postnord.com",
+        "twitter" : "@PostNordSverige",
+        "facebook" : "postnordsverige",
+        "weekdayOpeningHours" : "08:00 - 17:00",
+        "feedbackEmail" : "labs@postnord.com"
+    },
+    "DK" : {
+        "phone" : "+45 70 70 70 30",
+        "weekdayOpeningHours" : "09:00 - 18:00",
+        "feedbackEmail" : "labsdk@postnord.com"
+    },
+    "NO" : {
+        "phone" : "09300",
+        "weekdayOpeningHours" : "08:00 - 21:00",
+        "feedbackEmail" : "crm.no@postnord.com",
+        "phoneInternational" : "+47 231 413 00"
+    },
+    "FI" : {
+        "phone" : "+358 20 690 399",
+        "email" : "asiakaspalvelu.fi@postnord.com",
+        "weekdayOpeningHours" : "07:00 - 18:00",
+        "feedbackEmail" : "info.finland@postnord.com"
+    }
+})
